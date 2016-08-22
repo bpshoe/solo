@@ -9,15 +9,15 @@ Cloud Architect and DevOps Engineer
 <h2>Resume</h2>
 
 
-###SUMMARY OF SKILLS
+<h3>SUMMARY OF SKILLS</h3>
 
 * Proven skills in cloud infrastructure design, deployment and support
 * Software development background spanning multiple languages (C#, Visual Basic, Python, bash, Powershell)
 * Technical leadership experience spanning the full software development lifecycle
 * Effectively communicates with teammates, customers, and partners
 
-###EMPLOYMENT HISTORY
-####[JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)
+<h4>EMPLOYMENT HISTORY</h4>
+<h5>[JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)</h5>
 **Cloud Architect and Delivery Manager**
 * Embedded directly with customer working with both local and remote teams
 * Managed small team of contractors supporting Capital One
@@ -153,4 +153,3 @@ Cloud Architect and DevOps Engineer
 bpshoe@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/brian-shoemaker)
-
