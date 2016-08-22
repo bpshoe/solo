@@ -12,12 +12,12 @@ Cloud Architect and DevOps Engineer
 ## SUMMARY OF SKILLS
 
 * Proven skills in cloud infrastructure design, deployment and support
-* Software development background spanning multiple languages (C#, Visual Basic, Python, bash, Powershell)
+* Software development background spanning multiple languages (C#, Visual Basic, Python, bash, PowerShell)
 * Technical leadership experience spanning the full software development lifecycle
 * Effectively communicates with teammates, customers, and partners
 
-### EMPLOYMENT HISTORY</h4>
-#### [JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)</h5>
+### EMPLOYMENT HISTORY
+#### [JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)
 **Cloud Architect and Delivery Manager**
 * Embedded directly with customer working with both local and remote teams
 * Managed small team of contractors supporting Capital One
