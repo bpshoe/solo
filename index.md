@@ -16,8 +16,8 @@ Cloud Architect and DevOps Engineer
 * Technical leadership experience spanning the full software development lifecycle
 * Effectively communicates with teammates, customers, and partners
 
-<h4>EMPLOYMENT HISTORY</h4>
-<h5>[JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)</h5>
+### EMPLOYMENT HISTORY</h4>
+#### [JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)</h5>
 **Cloud Architect and Delivery Manager**
 * Embedded directly with customer working with both local and remote teams
 * Managed small team of contractors supporting Capital One
@@ -25,7 +25,7 @@ Cloud Architect and DevOps Engineer
 * Mentored junior DevOps engineers that are placed with other customers
 * Developed training plans to expand the AWS knowledge throughout the company
 
-#####Project Highlights
+##### Project Highlights
 
 **[Capital One](https://www.capitalone.com/) - Ease web automation team**
 * Senior DevOps resource advising the customer on best practices
@@ -36,13 +36,13 @@ Cloud Architect and DevOps Engineer
 * AWS infrastructure creation with Ansible, CloudFormation and Terraform
 * Administration on RHEL 6 and 7 platforms
 
-####[REAN Cloud](https://www.reancloud.com/) - Herndon, VA (May 2015 - August 2015)
+#### [REAN Cloud](https://www.reancloud.com/) - Herndon, VA (May 2015 - August 2015)
 **Senior DevOps Engineer**
 * Embedded directly with customer
 * Lead product team in creation of Continuous Integration / Continuous Delivery (CI/CD) pipelines that conform to both corporate requirements as well as team needs
 * Bleeding edge integration between AWS, Windows and open source tools
 
-#####Project Highlights
+##### Project Highlights
 
 **[Ellucian](http://www.ellucian.com/) - Continuous Integration / Continuous Delivery Development Pipeline**
 * CICD pipeline orchestration with Jenkins supporting both Windows and Linux operating systems
@@ -50,12 +50,12 @@ Cloud Architect and DevOps Engineer
 * Provisioning Windows and Linux EC2 instances using Ansible
 * AWS infrastructure management with Terraform
 
-####[InfoReliance](http://www.inforeliance.com/) - Fairfax, VA (March 2014 - April 2015)
+#### [InfoReliance](http://www.inforeliance.com/) - Fairfax, VA (March 2014 - April 2015)
 **Consultant**
 * Designed and deployed highly available AWS environments to support development and production
 * Adhered to strict infrastructure as code requirements
 
-#####Project Highlights
+##### Project Highlights
 
 **Common Data Platform CDP [SAMHSA](http://www.samhsa.gov/)**
 * AWS Architect and System Administrator for Enterprise Level Web Application
@@ -68,13 +68,13 @@ Cloud Architect and DevOps Engineer
 * Deployed and administered MS Team Foundation Server
 * Assisted team of 20 developers by designing development environments and providing daily support
 
-####FlexPoint Technology - Reston, VA (July 2008 - March 2014)
+#### FlexPoint Technology - Reston, VA (July 2008 - March 2014)
 **Solutions Engineer**
 * Developed rapid prototypes on Microsoft Office SharePoint 2007 to support collaboration initiatives
 * Delivered customized application functionality through SharePoint web parts, ASP.Net, and scripting as needed
 * Administered and customized Office365 for both internal and customer use
 
-#####Project Highlights
+##### Project Highlights
 
 **BRAVE**
 * Technical Lead for Development and Support Team
@@ -109,13 +109,13 @@ Cloud Architect and DevOps Engineer
 * Leveraged AJAX, C#, .NET framework, XML, STSADM install scripts, custom content types and event handlers within the Microsoft Office SharePoint 2007 platform
 
 
-####Project Solutions Group (PSG) - McLean, VA (February 2007 - June 2008)**
+#### Project Solutions Group (PSG) - McLean, VA (February 2007 - June 2008)**
 **Systems Engineer**
 * Worked alongside enterprise customers to define requirements for solutions project management and collaboration challenges
 * Provided design, implementation, and support leadership for enterprise customers by creating custom solutions built on Microsoft Office SharePoint 2007 and Project Server solutions
 * Delivered customized application functionality through SharePoint web parts, C#, ASP.Net, and scripting as needed
 
-#####Customer & Project Highlights
+##### Customer & Project Highlights
 
 **[Praxair](http://www.praxair.com/)**
 * Designed and deployed solution built on Microsoft SQL Server, SQL Server Reporting Services (SSRS), SharePoint and Project Server for >1,000 Users
@@ -135,17 +135,17 @@ Cloud Architect and DevOps Engineer
 * Designed and deployed Microsoft Office SharePoint Portal Server 2003 and Microsoft Project 2003 software
 * Developed custom data connector (VB6) for importing legacy project data
 
-####Indiana Printing and Publishing - Indiana, PA (October 2005 - February 2007)
+#### Indiana Printing and Publishing - Indiana, PA (October 2005 - February 2007)
 **Web Developer**
 * Worked alongside customers to define requirements and solutions for web marketing and sales
 * Provided design, implementation, and support leadership by creating custom solutions built on IIS, asp.net, MSSQL, PHP, Apache, MySQL
 
-####Yourinter.net - Indiana, PA (June 2001 - October 2005)
+#### Yourinter.net - Indiana, PA (June 2001 - October 2005)
 **Support Technician**
 * Provided 24 hour customer support including both technical support and sales
 * Windows 95 - Windows XP, Apple OS 8 - OS X
 
-###EDUCATION
+### EDUCATION
 * Cambria County Area Community College (June 2001 - Dec 2002)
 * Indiana University of Pennsylvania (August 1999 - May 2001)
 
