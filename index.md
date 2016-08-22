@@ -104,7 +104,7 @@ Cloud Architect and DevOps Engineer
 * Leveraged AJAX, C#, .NET framework, XML, STSADM install scripts, custom content types and event handlers within the Microsoft Office SharePoint 2007 platform
 
 
-#### Project Solutions Group (PSG) - McLean, VA (February 2007 - June 2008)**
+#### Project Solutions Group (PSG) - McLean, VA (February 2007 - June 2008)
 **Systems Engineer**
 * Worked alongside enterprise customers to define requirements for solutions project management and collaboration challenges
 * Provided design, implementation, and support leadership for enterprise customers by creating custom solutions built on Microsoft Office SharePoint 2007 and Project Server solutions
