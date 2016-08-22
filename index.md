@@ -20,7 +20,7 @@ Cloud Architect and DevOps Engineer
 * Mentored junior DevOps engineers that are placed with other customers
 * Developed training plans to expand the AWS knowledge throughout the company
 
-##### Project Highlights
+###### Project Highlights
 
 **[Capital One](https://www.capitalone.com/) - Ease web automation team**
 * Senior DevOps resource advising the customer on best practices
@@ -37,7 +37,7 @@ Cloud Architect and DevOps Engineer
 * Lead product team in creation of Continuous Integration / Continuous Delivery (CI/CD) pipelines that conform to both corporate requirements as well as team needs
 * Bleeding edge integration between AWS, Windows and open source tools
 
-##### Project Highlights
+###### Project Highlights
 
 **[Ellucian](http://www.ellucian.com/) - Continuous Integration / Continuous Delivery Development Pipeline**
 * CICD pipeline orchestration with Jenkins supporting both Windows and Linux operating systems
@@ -50,7 +50,7 @@ Cloud Architect and DevOps Engineer
 * Designed and deployed highly available AWS environments to support development and production
 * Adhered to strict infrastructure as code requirements
 
-##### Project Highlights
+###### Project Highlights
 
 **Common Data Platform CDP [SAMHSA](http://www.samhsa.gov/)**
 * AWS Architect and System Administrator for Enterprise Level Web Application
@@ -69,7 +69,7 @@ Cloud Architect and DevOps Engineer
 * Delivered customized application functionality through SharePoint web parts, ASP.Net, and scripting as needed
 * Administered and customized Office365 for both internal and customer use
 
-##### Project Highlights
+###### Project Highlights
 
 **BRAVE**
 * Technical Lead for Development and Support Team
