@@ -145,6 +145,6 @@ Cloud Architect and DevOps Engineer
 * Indiana University of Pennsylvania (August 1999 - May 2001)
 
 ## Contact
-[contact me](mailto:bpshoe@gmail.com)
+[Email](mailto:bpshoe@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/brian-shoemaker)
