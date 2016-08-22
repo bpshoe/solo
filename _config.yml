@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Brian Shoemaker
+tag_text: Brian Shoemaker
+description: This is a simple resume site to demonstrate serverless webhosting in AWS. 
 
 # Build settings
 markdown: kramdown
