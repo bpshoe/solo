@@ -4,11 +4,6 @@ layout: default
 
 Cloud Architect and DevOps Engineer
 
-
-
-## Resume
-
-
 ## SUMMARY OF SKILLS
 
 * Proven skills in cloud infrastructure design, deployment and support
