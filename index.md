@@ -6,10 +6,10 @@ Cloud Architect and DevOps Engineer
 
 
 
-<h2>Resume</h2>
+## Resume
 
 
-<h3>SUMMARY OF SKILLS</h3>
+## SUMMARY OF SKILLS
 
 * Proven skills in cloud infrastructure design, deployment and support
 * Software development background spanning multiple languages (C#, Visual Basic, Python, bash, Powershell)
