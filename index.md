@@ -4,6 +4,10 @@ layout: default
 
 Cloud Architect and DevOps Engineer
 
+### About this page
+This page was created using a combination of Github, CircleCI, Jekyll, AWS Simple Storage Service (S3) and AWS CloudFront for a 100% serverless website that is extremely low cost.
+
+
 ## SUMMARY OF SKILLS
 
 * Proven skills in cloud infrastructure design, deployment and support
