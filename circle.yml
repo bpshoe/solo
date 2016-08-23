@@ -1,0 +1,32 @@
+machine:
+  python:
+    version: pypy-2.2.1
+  environment:
+    JEKYLL_ENV: production
+
+dependencies:
+  pre:
+    - pip install awscli
+
+compile:
+  override:
+    - echo "disabled"
+
+test:
+  override:
+    - bundle exec jekyll build
+
+deployment:
+  production:
+    branch: gh-pages
+    commands:
+      - |
+        aws --version
+      - |
+        aws s3 sync --region your-region --acl public-read --delete _site/ s3://bpshoe-serverless
+      - |
+        echo -e "\n[preview]\ncloudfront = true" >> ~/.aws/config
+      - |
+        cat ~/.aws/config
+      - |
+        aws cloudfront create-invalidation --cli-input-json '{"DistributionId":"'"$AWS_CLOUDFRONT_ID"'","InvalidationBatch":{"Paths":{"Quantity":2,"Items":["/index.html","/*"]},"CallerReference": "'$(date "+%s")'"}}'
