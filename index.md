@@ -25,6 +25,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
   * Present cloud solutions to all levels of customers from executives to technical resources
   * Mentored junior AWS DevOps and SysOps engineers that are placed with other customers
   * Developed training plans to expand the AWS knowledge throughout the company
+  * Technology screening for new hires
 
 ##### Project Highlights
 
