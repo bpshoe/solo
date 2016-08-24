@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Cloud Architect and DevOps Engineer
+Certified Amazon Web Services Cloud Architect and DevOps Engineer
 
 ## About this page
 This page was created using a combination of Github, CircleCI, Jekyll, AWS Simple Storage Service (S3) and AWS CloudFront for a 100% serverless website that is extremely low cost.
@@ -166,6 +166,9 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
   * Cambria County Area Community College (June 2001 - Dec 2002)
   * Indiana University of Pennsylvania (August 1999 - May 2001)
+
+### Certifications
+  * Amazon Web Services Architect Associate
 
 ## Contact
 
