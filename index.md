@@ -4,7 +4,7 @@ layout: default
 
 Cloud Architect and DevOps Engineer
 
-### About this page
+## About this page
 This page was created using a combination of Github, CircleCI, Jekyll, AWS Simple Storage Service (S3) and AWS CloudFront for a 100% serverless website that is extremely low cost.
 
 
@@ -26,7 +26,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
   * Mentored junior DevOps engineers that are placed with other customers
   * Developed training plans to expand the AWS knowledge throughout the company
 
-###### Project Highlights
+##### Project Highlights
 
 **[Capital One](https://www.capitalone.com/) - Ease web automation team**
 
@@ -45,7 +45,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
   * Lead product team in creation of Continuous Integration / Continuous Delivery (CI/CD) pipelines that conform to both corporate requirements as well as team needs
   * Bleeding edge integration between AWS, Windows and open source tools
 
-###### Project Highlights
+##### Project Highlights
 
 **[Ellucian](http://www.ellucian.com/) - Continuous Integration / Continuous Delivery Development Pipeline**
 
@@ -60,7 +60,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
   * Designed and deployed highly available AWS environments to support development and production
   * Adhered to strict infrastructure as code requirements
 
-###### Project Highlights
+##### Project Highlights
 
 **Common Data Platform CDP [SAMHSA](http://www.samhsa.gov/)**
 
@@ -81,7 +81,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
   * Delivered customized application functionality through SharePoint web parts, ASP.Net, and scripting as needed
   * Administered and customized Office365 for both internal and customer use
 
-###### Project Highlights
+##### Project Highlights
 
 **BRAVE**
 
