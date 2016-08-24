@@ -88,7 +88,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
   * Technical Lead for Development and Support Team
   * Amazon Web Services (AWS) and Microsoft Azure Platforms
   * Utilized AWS: EC2, Glacier, S3, Route 53, IAM, OpsWorks, VPC, CloudFormation, and DirectConnect services
-  * Utilitzed Azure: Cloud Services, SQL DB, Blob Storage, Virtual Machines
+  * Utilized Azure: Cloud Services, SQL DB, Blob Storage, Virtual Machines
   * Automated AWS and Azure administration tasks by scripting with PowerShell and BOTO
   * Performed multiple SharePoint 2013 deployments to support collaboration for several environments under the BRAVE project
   * Used Microsoft Threat Management Gateway (TMG) to perform firewall and reverse proxy functions
