@@ -1,7 +1,7 @@
 # Site settings
 title: Brian Shoemaker Cloud Architect
 tag_text: Brian Shoemaker AWS Cloud Architect
-description: This profile page was created using a combination of Github, CircleCI, Jekyll, AWS Simple Storage Service (S3) and AWS CloudFront for a 100% serverless website that is extremely low cost.
+description: This profile page was created using a combination of Github, CircleCI, Jekyll, AWS S3 and AWS CloudFront for a high performance serverless website
 
 # Build settings
 markdown: kramdown
