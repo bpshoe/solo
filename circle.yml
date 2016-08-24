@@ -27,9 +27,11 @@ deployment:
       - |
         aws s3 cp _site/index.html s3://bpshoe-serverless/index.html --metadata-directive REPLACE --acl public-read
       - |
-        aws s3 cp _site/index.html s3://bpshoe-serverless/404.html --metadata-directive REPLACE --acl public-read
+        aws s3 cp _site/404.html s3://bpshoe-serverless/404.html --metadata-directive REPLACE --acl public-read
       - |
-        aws s3 cp _site/index.html s3://bpshoe-serverless/robots.txt --metadata-directive REPLACE --acl public-read
+        aws s3 cp _site/robots.txt s3://bpshoe-serverless/robots.txt --metadata-directive REPLACE --acl public-read
+      - |
+        aws s3 cp _site/sitemap.xml s3://bpshoe-serverless/sitemap.xml --metadata-directive REPLACE --acl public-read
       - |
         echo -e "\n[preview]\ncloudfront = true" >> ~/.aws/config
       - |

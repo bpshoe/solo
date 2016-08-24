@@ -9,3 +9,5 @@ exclude: ["README.md"]
 exclude: ['vendor']
 sass:
   style: compressed
+gems:
+  - jekyll-sitemap
