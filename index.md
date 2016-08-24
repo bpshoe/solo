@@ -10,8 +10,8 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
 ## Resume
 
-* Proven skills in cloud infrastructure design, deployment and support
-* Software development background spanning multiple languages (C#, Visual Basic, Python, bash, PowerShell)
+* Proven skills in enterprise level Amazon Web Services architecture
+* Well versed in DevOps patterns and practices
 * Technical leadership experience spanning the full software development lifecycle
 * Effectively communicates with teammates, customers, and partners
 
