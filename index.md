@@ -10,7 +10,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
 ## Resume
 
-* Proven skills in enterprise level Amazon Web Services architecture
+* Proven skills in enterprise level Amazon Web Services (AWS) architecture
 * Well versed in DevOps patterns and practices
 * Technical leadership experience spanning the full software development lifecycle
 * Effectively communicates with teammates, customers, and partners
@@ -22,21 +22,21 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
   * Embedded directly with customer working with both local and remote teams
   * Managed small team of contractors supporting Capital One
-  * Present solutions to all levels of customers from executives to technical resources
-  * Mentored junior DevOps engineers that are placed with other customers
+  * Present cloud solutions to all levels of customers from executives to technical resources
+  * Mentored junior AWS DevOps and SysOps engineers that are placed with other customers
   * Developed training plans to expand the AWS knowledge throughout the company
 
 ##### Project Highlights
 
 **[Capital One](https://www.capitalone.com/) - Ease web automation team**
 
-  * Senior DevOps resource advising the customer on best practices
-  * Infrastructure automation development for the Capital One customer facing site including all lines of business
-  * Advance Jenkins pipeline development to support infrastructure, testing and software provisioning
+  * Senior DevOps resource advising the customer on AWS, continuous integration and continuous delivery best practices
+  * Infrastructure as code development for the Capital One customer facing site including all lines of business
+  * Advance Jenkins pipeline development to continuous integration and continuous delivery of code and infrastructure
   * Software provisioning with Chef and Ansible
   * Extensive Bash scripting to support automation
-  * AWS infrastructure creation with Ansible, CloudFormation and Terraform
-  * Administration on RHEL 6 and 7 platforms
+  * AWS infrastructure as code with Ansible, CloudFormation and Terraform
+  * RedHat Enterprise Linux version 6 and 7 administration
 
 #### [REAN Cloud](https://www.reancloud.com/) - Herndon, VA (May 2015 - August 2015)
 **Senior DevOps Engineer**
