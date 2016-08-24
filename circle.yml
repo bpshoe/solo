@@ -23,7 +23,7 @@ deployment:
       - |
         aws --version
       - |
-        aws s3 sync --region your-region --acl public-read --delete _site/ s3://bpshoe-serverless
+        aws s3 sync --region us-east-1 --acl public-read --delete _site/ s3://bpshoe-serverless
       - |
         echo -e "\n[preview]\ncloudfront = true" >> ~/.aws/config
       - |
