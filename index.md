@@ -16,7 +16,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 * Effectively communicates with teammates, customers, and partners
 
 ### EMPLOYMENT HISTORY
-#### [JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)
+#### [JHC Technology](http://www.jhctechnology.com/) - Herndon, VA (May 2015 - August 2015)
 **Cloud Architect and Delivery Manager**
 * Embedded directly with customer working with both local and remote teams
 * Managed small team of contractors supporting Capital One
