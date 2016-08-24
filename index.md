@@ -33,7 +33,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
   * Senior DevOps resource advising the customer on AWS, continuous integration and continuous delivery best practices
   * Infrastructure as code development for the Capital One customer facing site including all lines of business
-  * Advance Jenkins pipeline development to continuous integration and continuous delivery of code and infrastructure
+  * Advance Jenkins pipeline development to continuous integration (CI) and continuous delivery (CD) of code and infrastructure
   * Software provisioning with Chef and Ansible
   * Extensive Bash scripting to support automation
   * AWS infrastructure as code with Ansible, CloudFormation and Terraform
@@ -43,14 +43,14 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 **Senior DevOps Engineer**
 
   * Embedded directly with customer
-  * Lead product team in creation of Continuous Integration / Continuous Delivery (CI/CD) pipelines that conform to both corporate requirements as well as team needs
+  * Lead product team in creation of continuous integration and continuous delivery pipelines that conform to both corporate requirements as well as team needs
   * Bleeding edge integration between AWS, Windows and open source tools
 
 ##### Project Highlights
 
 **[Ellucian](http://www.ellucian.com/) - Continuous Integration / Continuous Delivery Development Pipeline**
 
-  * CICD pipeline orchestration with Jenkins supporting both Windows and Linux operating systems
+  * CI & CD pipeline orchestration with Jenkins supporting both Windows and Linux operating systems
   * Bootstrapping and server automation with Bash and PowerShell
   * Provisioning Windows and Linux EC2 instances using Ansible
   * AWS infrastructure management with Terraform
