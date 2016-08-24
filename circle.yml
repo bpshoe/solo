@@ -23,7 +23,11 @@ deployment:
       - |
         aws --version
       - |
-        aws s3 sync --region us-east-1 --acl public-read --delete _site/ s3://bpshoe-serverless
+        aws s3 cp _site/css/main.css s3://bpshoe-serverless/css/main.css --metadata-directive REPLACE --acl public-read --cache-control max-age=604800
+      - |
+        aws s3 cp _site/index.html s3://bpshoe-serverless/index.html --metadata-directive REPLACE --acl public-read
+      - |
+        aws s3 cp _site/index.html s3://bpshoe-serverless/404.html --metadata-directive REPLACE --acl public-read
       - |
         echo -e "\n[preview]\ncloudfront = true" >> ~/.aws/config
       - |
