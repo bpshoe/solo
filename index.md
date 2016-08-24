@@ -8,7 +8,7 @@ Cloud Architect and DevOps Engineer
 This page was created using a combination of Github, CircleCI, Jekyll, AWS Simple Storage Service (S3) and AWS CloudFront for a 100% serverless website that is extremely low cost.
 
 
-## SUMMARY OF SKILLS
+## Resume
 
 * Proven skills in cloud infrastructure design, deployment and support
 * Software development background spanning multiple languages (C#, Visual Basic, Python, bash, PowerShell)
