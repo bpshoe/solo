@@ -1,10 +1,11 @@
 # Site settings
 title: Brian Shoemaker
 tag_text: Brian Shoemaker
-description: This is a simple resume site to demonstrate serverless webhosting in AWS. 
+description: This is a simple resume site to demonstrate serverless webhosting in AWS.
 
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
+exclude: ['vendor']
 sass:
   style: compressed
