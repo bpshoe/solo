@@ -16,24 +16,27 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 * Effectively communicates with teammates, customers, and partners
 
 ### EMPLOYMENT HISTORY
+
 #### [JHC Technology](http://www.jhctechnology.com/) - Herndon, VA (May 2015 - August 2015)
 **Cloud Architect and Delivery Manager**
-* Embedded directly with customer working with both local and remote teams
-* Managed small team of contractors supporting Capital One
-* Present solutions to all levels of customers from executives to technical resources
-* Mentored junior DevOps engineers that are placed with other customers
-* Developed training plans to expand the AWS knowledge throughout the company
+
+  * Embedded directly with customer working with both local and remote teams
+  * Managed small team of contractors supporting Capital One
+  * Present solutions to all levels of customers from executives to technical resources
+  * Mentored junior DevOps engineers that are placed with other customers
+  * Developed training plans to expand the AWS knowledge throughout the company
 
 ###### Project Highlights
 
 **[Capital One](https://www.capitalone.com/) - Ease web automation team**
-* Senior DevOps resource advising the customer on best practices
-* Infrastructure automation development for the Capital One customer facing site including all lines of business
-* Advance Jenkins pipeline development to support infrastructure, testing and software provisioning
-* Software provisioning with Chef and Ansible
-* Extensive Bash scripting to support automation
-* AWS infrastructure creation with Ansible, CloudFormation and Terraform
-* Administration on RHEL 6 and 7 platforms
+
+  * Senior DevOps resource advising the customer on best practices
+  * Infrastructure automation development for the Capital One customer facing site including all lines of business
+  * Advance Jenkins pipeline development to support infrastructure, testing and software provisioning
+  * Software provisioning with Chef and Ansible
+  * Extensive Bash scripting to support automation
+  * AWS infrastructure creation with Ansible, CloudFormation and Terraform
+  * Administration on RHEL 6 and 7 platforms
 
 #### [REAN Cloud](https://www.reancloud.com/) - Herndon, VA (May 2015 - August 2015)
 **Senior DevOps Engineer**
