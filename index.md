@@ -17,7 +17,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
 ### EMPLOYMENT HISTORY
 
-#### [JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (May 2015 - August 2015)
+#### [JHC Technology](http://www.jhctechnology.com/) - Waldorf, MD (August 2015 - Present)
 **Cloud Architect and Delivery Manager**
 
   * Embedded directly with customer working with both local and remote teams
