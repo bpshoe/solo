@@ -21,9 +21,9 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 ### Experience
 
-**AUGUST 2015 - PRESENT**
-
 #### JHC Technology, Waldorf, MD - Cloud Architect
+
+**AUGUST 2015 - PRESENT**
 
 * Delivery Manager for JHC Resources at Capital One
 * Advanced Jenkins Continuous Integration and Continuous Deployment (CICD) pipelines
@@ -32,41 +32,41 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 * Developed training plans to expand AWS knowledge throughout the company
 * Mentored junior DevOps and SysOps engineers
 
-**MAY 2015 - AUGUST 2015**
-
 #### REAN Cloud, Herndon, VA - Senior Devops Engineer
+
+**MAY 2015 - AUGUST 2015**
 
 * Lead product team in the creation of Continuous Integration and Continuous Deployment (CICD) pipelines
 * Utilized Jenkins, bash, Python,  Terrafrom, CloudFormation, Ansible, Windows, Amazon Web Services (AWS), AWS Linux, EC2, S3, ELB, AutoScaling, Artifactory, Jira, Confluence, Stash, Git, Windows, IIS, Apache, Tomcat
 
-**MARCH 2014 - APRIL 2015**
-
 #### InfoReliance, Fairfax, VA - Consultant
+
+**MARCH 2014 - APRIL 2015**
 
 * Amazon Web Services (AWS) Architect and System Administrator for a highly available enterprise web application in AWS GovCloud
 * Utilized: AWS, VPC, EC2, ELB, Auto Scaling, S3, Glacier, SES, SQS, SNS, Elasticache, OpenVPN, IIS, Windows 2012, MSSQL Always On, Microsoft SharePoint
 * Adhered to strict infrastructure as  code requirements
 
-**MARCH 2008 - APRIL 2014**
-
 #### FlexPoint Technology, Reston, VA - Solutions Engineer
+
+**MARCH 2008 - APRIL 2014**
 
 * Technical lead for development and support teams
 * Developed SharePoint and Amazon Web Services (AWS) solutions across many segments of the federal government
 * Utilized C#, AWS, EC2, S3, Route 53, IAM, VPC, CloudFormation and DirectConnect, Windows, Red Hat Enterprise Linux (RHEL), MSSQL, Postgresql, JavaScript, PHP
 * Projects Include: BRAVE, ClearVision, Project N, DHS OCIO, Centers for Medicaid and Medicare Services (CMS)
 
-**FEBRUARY  2007 - JUNE 2008**
-
 #### Project Solutions Group, Mclean, VA - Solutions Engineer
+
+**FEBRUARY  2007 - JUNE 2008**
 
 * Microsoft SharePoint and Project Server Solutions Engineer* 
 * Developed continuous integration  middleware solutions with C#, JavaScript, MS SQL Server and Sql Server Reporting Services (SSRS)
 * Servicing customers nationwide including: NEC, CAE, Siemens and Praxair
 
-OCTOBER 2005 - FEBRUARY 2007
-
 #### Indiana Printing and Publishing, Indiana, PA - Web Developer
+
+**OCTOBER 2005 - FEBRUARY 2007**
 
 * Developed full website solutions utilizing ASP, ASP.net, PHP, MSSQL, MySql* 
 * Network and VPN solutions
