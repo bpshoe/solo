@@ -20,6 +20,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 ### Experience
 
 ** AUGUST 2015 - PRESENT **
+
 #### JHC Technology, Waldorf, MD - Cloud Architect
 
 	* Delivery Manager for JHC Resources at Capital One
@@ -30,19 +31,22 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 	* Mentored junior DevOps and SysOps engineers
 
 ** MAY 2015 - AUGUST 2015 **
+
 #### REAN Cloud, Herndon, VA - Senior Devops Engineer
 
 * Lead product team in the creation of Continuous Integration and Continuous Deployment (CICD) pipelines
 * Utilized Jenkins, bash, Python,  Terrafrom, CloudFormation, Ansible, Windows, Amazon Web Services (AWS), AWS Linux, EC2, S3, ELB, AutoScaling, Artifactory, Jira, Confluence, Stash, Git, Windows, IIS, Apache, Tomcat
 
-MARCH 2014 - APRIL 2015
-InfoReliance, Fairfax, VA - Consultant
+** MARCH 2014 - APRIL 2015 **
+
+#### InfoReliance, Fairfax, VA - Consultant
 
 * Amazon Web Services (AWS) Architect and System Administrator for a highly available enterprise web application in AWS GovCloud
 * Utilized: AWS, VPC, EC2, ELB, Auto Scaling, S3, Glacier, SES, SQS, SNS, Elasticache, OpenVPN, IIS, Windows 2012, MSSQL Always On, Microsoft SharePoint
 * Adhered to strict infrastructure as  code requirements
 
 ** MARCH 2008 - APRIL 2014 **
+
 #### FlexPoint Technology, Reston, VA - Solutions Engineer
 
 * Technical lead for development and support teams
@@ -51,6 +55,7 @@ InfoReliance, Fairfax, VA - Consultant
 * Projects Include: BRAVE, ClearVision, Project N, DHS OCIO, Centers for Medicaid and Medicare Services (CMS)
 
 ** FEBRUARY  2007 - JUNE 2008 **
+
 #### Project Solutions Group, Mclean, VA - Solutions Engineer
 
 * Microsoft SharePoint and Project Server Solutions Engineer* 
@@ -58,6 +63,7 @@ InfoReliance, Fairfax, VA - Consultant
 * Servicing customers nationwide including: NEC, CAE, Siemens and Praxair
 
 ** OCTOBER 2005 - FEBRUARY 2007 **
+
 #### Indiana Printing and Publishing, Indiana, PA - Web Developer
 
 * Developed full website solutions utilizing ASP, ASP.net, PHP, MSSQL, MySql* 
@@ -65,9 +71,12 @@ InfoReliance, Fairfax, VA - Consultant
 
 ### Education
 
-** 2001 - 2002 ** 
+** 2001 - 2002 **
+
 Cambria County Area Community College, Johnstown, PA
+
 ** 1999 - 2001 **
+
 Indiana University of Pennsylvania, Indiana, PA
 
 ### Awards
