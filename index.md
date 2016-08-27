@@ -14,6 +14,8 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
 ## Resume
 
+[PDF Download](/resume.pdf)
+
 ### Skills
 Proven skills in enterprise level cloud infrastructure design and development. Technical leadership experience spanning the full software development lifecycle.
 
