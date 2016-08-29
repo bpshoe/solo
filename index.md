@@ -73,13 +73,11 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 ### Education
 
-**2001 - 2002**
 
-Cambria County Area Community College, Johnstown, PA
 
-**1999 - 2001**
+**2001 - 2002** Cambria County Area Community College, Johnstown, PA
 
-Indiana University of Pennsylvania, Indiana, PA
+**1999 - 2001** Indiana University of Pennsylvania, Indiana, PA
 
 ### Awards
 
