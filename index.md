@@ -5,7 +5,7 @@ layout: default
 Certified Amazon Web Services Cloud Architect and DevOps Engineer
 
 ## About this page
-This page was created using a combination of Github, CircleCI, Jekyll, AWS Simple Storage Service (S3) and AWS CloudFront for a 100% serverless website that is extremely low cost.
+This page was created using a combination of Github, CircleCI, Jekyll, AWS Simple Storage Service (S3) and AWS CloudFront for a 100% serverless website that is both fast and cost effective.
 
 ## Contact
 [Email](mailto:bpshoe@gmail.com)
@@ -28,7 +28,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 * Delivery Manager for JHC Resources at Capital One
 * Advanced Jenkins Continuous Integration and Continuous Deployment (CICD) pipelines
 * Senior DevOps Engineer on the  ease web automation team at Capital One responsible for fully * automating the customer facing Capital One website infrastructure and software deployment
-* Utilized: Jenkins, bash, Python, Terraform, Ansible, Amazon Web Services (AWS), CloudFormation, EC2, S3, ELB, Auto Scaling, Apache, Tomcat, WAF
+* Utilized: Amazon Web Services (AWS), Jenkins, bash, Python, Terraform, Ansible, Amazon Web Services (AWS), CloudFormation, EC2, S3, ELB, Auto Scaling, Apache, Tomcat, WAF
 * Developed training plans to expand AWS knowledge throughout the company
 * Mentored junior DevOps and SysOps engineers
 
@@ -60,7 +60,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 **FEBRUARY  2007 - JUNE 2008**
 
-* Microsoft SharePoint and Project Server Solutions Engineer* 
+* Microsoft SharePoint and Project Server Solutions Engineer*
 * Developed continuous integration  middleware solutions with C#, JavaScript, MS SQL Server and Sql Server Reporting Services (SSRS)
 * Servicing customers nationwide including: NEC, CAE, Siemens and Praxair
 
@@ -68,15 +68,17 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 **OCTOBER 2005 - FEBRUARY 2007**
 
-* Developed full website solutions utilizing ASP, ASP.net, PHP, MSSQL, MySql* 
+* Developed full website solutions utilizing ASP, ASP.net, PHP, MSSQL, MySql*
 * Network and VPN solutions
 
 ### Education
 
 **2001 - 2002**
+
 Cambria County Area Community College, Johnstown, PA
 
 **1999 - 2001**
+
 Indiana University of Pennsylvania, Indiana, PA
 
 ### Awards
