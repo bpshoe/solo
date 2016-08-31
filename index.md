@@ -43,7 +43,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 **MARCH 2014 - APRIL 2015**
 
-* Amazon Web Services (AWS) Architect and System Administrator for a highly available enterprise web application in AWS GovCloud
+* Amazon Web Services (AWS) Architect and System Administrator for a highly available enterprise web application in AWS GovCloud for SAMHSA
 * Utilized: AWS, VPC, EC2, ELB, Auto Scaling, S3, Glacier, SES, SQS, SNS, Elasticache, OpenVPN, IIS, Windows 2012, MSSQL Always On, Microsoft SharePoint
 * Adhered to strict infrastructure as  code requirements
 
