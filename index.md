@@ -25,9 +25,9 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 **AUGUST 2015 - PRESENT**
 
-* Delivery Manager for JHC Resources at Capital One
+* Delivery Manager for JHC Resources at [Capital One](https://www.capitalone.com/)
 * Advanced Jenkins Continuous Integration and Continuous Deployment (CICD) pipelines
-* Senior DevOps Engineer on the  ease web automation team at Capital One responsible for fully * automating the customer facing Capital One website infrastructure and software deployment
+* Senior DevOps Engineer on the  ease web automation team at Capital One responsible for fully automating the customer facing Capital One website infrastructure and software deployment
 * Utilized: Amazon Web Services (AWS), Jenkins, bash, Python, Terraform, Ansible, Amazon Web Services (AWS), CloudFormation, EC2, S3, ELB, Auto Scaling, Apache, Tomcat, WAF
 * Developed training plans to expand AWS knowledge throughout the company
 * Mentored junior DevOps and SysOps engineers
@@ -36,7 +36,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 **MAY 2015 - AUGUST 2015**
 
-* Lead product team in the creation of Continuous Integration and Continuous Deployment (CICD) pipelines
+* Lead product team at [Elucian](http://www.ellucian.com/) in the creation of Continuous Integration and Continuous Deployment (CICD) pipelines
 * Utilized Jenkins, bash, Python,  Terrafrom, CloudFormation, Ansible, Windows, Amazon Web Services (AWS), AWS Linux, EC2, S3, ELB, AutoScaling, Artifactory, Jira, Confluence, Stash, Git, Windows, IIS, Apache, Tomcat
 
 #### InfoReliance, Fairfax, VA - Consultant
@@ -54,7 +54,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 * Technical lead for development and support teams
 * Developed SharePoint and Amazon Web Services (AWS) solutions across many segments of the federal government
 * Utilized C#, AWS, EC2, S3, Route 53, IAM, VPC, CloudFormation and DirectConnect, Windows, Red Hat Enterprise Linux (RHEL), MSSQL, Postgresql, JavaScript, PHP
-* Projects Include: BRAVE, ClearVision, Project N, DHS OCIO, Centers for Medicaid and Medicare Services (CMS)
+* Projects Include: BRAVE, ClearVision, Project N, [DHS OCIO](https://www.dhs.gov/organization/ocio-office-chief-information-officer), [Centers for Medicaid and Medicare Services (CMS)](https://www.cms.gov/)
 
 #### Project Solutions Group, Mclean, VA - Solutions Engineer
 
@@ -62,7 +62,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 * Microsoft SharePoint and Project Server Solutions Engineer*
 * Developed continuous integration  middleware solutions with C#, JavaScript, MS SQL Server and Sql Server Reporting Services (SSRS)
-* Servicing customers nationwide including: NEC, CAE, Siemens and Praxair
+* Servicing customers nationwide including: [NEC](http://www.necdisplay.com/), [CAE](http://www.cae.com/), [Siemens](https://www.siemens.com/global/en/home.html) and [Praxair](http://www.praxair.com/)
 
 #### Indiana Printing and Publishing, Indiana, PA - Web Developer
 
@@ -73,7 +73,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 ### Education
 
-**2001-2002** Cambria County Area Community College, Johnstown, PA
+**2001-2002** Cambria County Community College, Johnstown, PA
 
 **1999-2001** Indiana University of Pennsylvania, Indiana, PA
 
