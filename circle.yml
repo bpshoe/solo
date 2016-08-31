@@ -33,7 +33,7 @@ deployment:
       - |
         aws s3 cp _site/sitemap.xml s3://bpshoe-serverless/sitemap.xml --metadata-directive REPLACE --acl public-read
       - |
-        aws s3 cp _site/resume.pdf s3://bpshoe-serverless/resume.pdf --metadata-directive REPLACE --acl public-read
+        aws s3 cp _site/procert.png s3://bpshoe-serverless/procert.png --metadata-directive REPLACE --acl public-read
       - |
         echo -e "\n[preview]\ncloudfront = true" >> ~/.aws/config
       - |
