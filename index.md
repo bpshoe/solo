@@ -82,7 +82,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 AWS Certified Solutions Architect Associate
 AWS Certified Solutions Architect Professional
 
-![AWS Certified Solutions Architect Professional](/procert.png)
+![AWS Certified Solutions Architect Professional](/procert.png =250x)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
