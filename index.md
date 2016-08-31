@@ -73,15 +73,16 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 ### Education
 
-
-
 **2001 - 2002** Cambria County Area Community College, Johnstown, PA
 
 **1999 - 2001** Indiana University of Pennsylvania, Indiana, PA
 
-### Awards
+### Certifications
 
-AWS Certified Solutions Architect Associate - 2015
+AWS Certified Solutions Architect Associate
+AWS Certified Solutions Architect Professional
+
+![AWS Certified Solutions Architect Professional](procert.png)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
