@@ -35,6 +35,8 @@ deployment:
       - |
         aws s3 cp _site/procert.png s3://bpshoe-serverless/procert.png --metadata-directive REPLACE --acl public-read
       - |
+        aws s3 cp _site/PublicBrianShoemakerResumeAugust2016.docx s3://bpshoe-serverless/PublicBrianShoemakerResumeAugust2016.docx --metadata-directive REPLACE --acl public-read
+      - |
         echo -e "\n[preview]\ncloudfront = true" >> ~/.aws/config
       - |
         cat ~/.aws/config

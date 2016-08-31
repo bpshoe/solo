@@ -14,7 +14,7 @@ This page was created using a combination of Github, CircleCI, Jekyll, AWS Simpl
 
 ## Resume
 
-[Current Resume](https://docs.google.com/document/d/1QKNL6OusF-v9OqVei55gck75d98voe8p67W_h-xybVk/pub)
+[Current Resume](/PublicBrianShoemakerResumeAugust2016.docx)
 
 ### Skills
 Proven skills in enterprise level cloud infrastructure design and development. Technical leadership experience spanning the full software development lifecycle.
