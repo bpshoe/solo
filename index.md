@@ -28,7 +28,8 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 * Delivery Manager for JHC Resources at [Capital One](https://www.capitalone.com/)
 * Advanced Jenkins Continuous Integration and Continuous Deployment (CICD) pipelines
 * Senior DevOps Engineer on the  ease web automation team at Capital One responsible for fully automating the customer facing Capital One website infrastructure and software deployment
-* Utilized: Amazon Web Services (AWS), Jenkins, bash, Python, Terraform, Ansible, Amazon Web Services (AWS), CloudFormation, EC2, S3, ELB, Auto Scaling, Apache, Tomcat, WAF
+* DevOps mentorship for multiple Capital One Development teams
+* Utilized: Amazon Web Services (AWS), Jenkins, bash, Python, Terraform, Ansible, Amazon Web Services (AWS), CloudFormation, EC2, S3, ELB, Auto Scaling, Apache, Tomcat, WAF, Red Hat Enterprise Linux, AWS Linux
 * Developed training plans to expand AWS knowledge throughout the company
 * Mentored junior DevOps and SysOps engineers
 
@@ -37,7 +38,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 **MAY 2015 - AUGUST 2015**
 
 * Lead product team at [Elucian](http://www.ellucian.com/) in the creation of Continuous Integration and Continuous Deployment (CICD) pipelines
-* Utilized Jenkins, bash, Python,  Terrafrom, CloudFormation, Ansible, Windows, Amazon Web Services (AWS), AWS Linux, EC2, S3, ELB, AutoScaling, Artifactory, Jira, Confluence, Stash, Git, Windows, IIS, Apache, Tomcat
+* Utilized Jenkins, bash, Python,  Terrafrom, CloudFormation, Ansible, Windows, Amazon Web Services (AWS), Red Hat Enterprise Linux, AWS Linux, EC2, S3, ELB, AutoScaling, Artifactory, Jira, Confluence, Stash, Git, Windows, IIS, Apache, Tomcat 
 
 #### InfoReliance, Fairfax, VA - Consultant
 
@@ -60,7 +61,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 **FEBRUARY  2007 - JUNE 2008**
 
-* Microsoft SharePoint and Project Server Solutions Engineer*
+* Microsoft SharePoint and Project Server Solutions Engineer
 * Developed continuous integration  middleware solutions with C#, JavaScript, MS SQL Server and Sql Server Reporting Services (SSRS)
 * Servicing customers nationwide including: [NEC](http://www.necdisplay.com/), [CAE](http://www.cae.com/), [Siemens](https://www.siemens.com/global/en/home.html) and [Praxair](http://www.praxair.com/)
 
@@ -68,7 +69,7 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 **OCTOBER 2005 - FEBRUARY 2007**
 
-* Developed full website solutions utilizing ASP, ASP.net, PHP, MSSQL, MySql*
+* Developed full website solutions utilizing ASP, ASP.net, PHP, MSSQL, MySql
 * Network and VPN solutions
 
 ### Education
