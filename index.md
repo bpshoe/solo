@@ -21,9 +21,19 @@ Proven skills in enterprise level cloud infrastructure design and development. T
 
 ### Experience
 
+#### Capital One, McLean, VA - Master DevOps Engineer
+
+**AUGUST 2017 - Present**
+
+* Technical Team Lead 
+* Master DevOps Engineer on the  ease web automation team at Capital One responsible for fully automating the customer facing Capital One website infrastructure and software deployment
+* Responsible for infrastructure supporting more than 19 million users 
+* DevOps mentorship to junior DevOps Engineers 
+* Utilized: Amazon Web Services (AWS), Jenkins, Groovy, bash, Python, Terraform, Ansible, Amazon Web Services (AWS), CloudFormation, EC2, S3, ELB, Auto Scaling, Apache, Tomcat, WAF, Red Hat Enterprise Linux, AWS Linux
+
 #### JHC Technology, Waldorf, MD - Cloud Architect
 
-**AUGUST 2015 - PRESENT**
+**AUGUST 2015 - August 2017**
 
 * Delivery Manager for JHC Resources at [Capital One](https://www.capitalone.com/)
 * Advanced Jenkins Continuous Integration and Continuous Deployment (CICD) pipelines
